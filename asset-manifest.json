@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.a401906b.chunk.css",
-    "main.js": "./static/js/main.10b3dd4a.chunk.js",
-    "main.js.map": "./static/js/main.10b3dd4a.chunk.js.map",
+    "main.css": "./static/css/main.8b1e5df7.chunk.css",
+    "main.js": "./static/js/main.962da649.chunk.js",
+    "main.js.map": "./static/js/main.962da649.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4466cca0.js",
     "runtime-main.js.map": "./static/js/runtime-main.4466cca0.js.map",
     "static/js/2.15faff7b.chunk.js": "./static/js/2.15faff7b.chunk.js",
     "static/js/2.15faff7b.chunk.js.map": "./static/js/2.15faff7b.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a401906b.chunk.css.map": "./static/css/main.a401906b.chunk.css.map",
+    "static/css/main.8b1e5df7.chunk.css.map": "./static/css/main.8b1e5df7.chunk.css.map",
     "static/js/2.15faff7b.chunk.js.LICENSE.txt": "./static/js/2.15faff7b.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/icon-close.0594ac0e.svg",
     "static/media/Breadcrumbs.scss": "./static/media/Arrow_right-disabled.e028d388.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.4466cca0.js",
     "static/js/2.15faff7b.chunk.js",
-    "static/css/main.a401906b.chunk.css",
-    "static/js/main.10b3dd4a.chunk.js"
+    "static/css/main.8b1e5df7.chunk.css",
+    "static/js/main.962da649.chunk.js"
   ]
 }
